@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Personal Info</title>
+</head>
+
+<body>
+
+<h1>Roshani Ahire</h1>
+
+<p>I am a Computer Science Engineering student who loves coding.</p>
+
+<ul>
+<li>C Programming</li>
+<li>C++</li>
+<li>Python</li>
+</ul>
+
+<a href="mailto:roshani@gmail.com">Send Email</a>
+
+</body>
+</html>
