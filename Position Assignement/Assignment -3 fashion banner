@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Fashion Banner</title>
+
+<style>
+
+body{
+font-family:Arial;
+background:#f4c27a;
+display:flex;
+justify-content:center;
+align-items:center;
+height:100vh;
+}
+
+.card{
+background:white;
+padding:40px;
+width:600px;
+box-shadow:0 10px 20px gray;
+display:flex;
+align-items:center;
+}
+
+.text{
+flex:1;
+}
+
+.text h1{
+font-size:30px;
+}
+
+button{
+background:orange;
+color:white;
+padding:10px 20px;
+border:none;
+margin-top:10px;
+}
+
+img{
+width:200px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="card">
+
+<div class="text">
+<h1>It's Time To Stand Out From The Crowd</h1>
+<button>New Collection</button>
+</div>
+
+<img src="https://images.squarespace-cdn.com/content/v1/64803b393544107026d7070b/f3a0b8c8-3c13-4f46-abe8-f599ff8fbfef/los-angeles-fashion-photographer-colored-shadows06.jpg">
+
+</div>
+
+</body>
+</html>
