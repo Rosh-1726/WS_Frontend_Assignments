@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Student Profile</title>
+</head>
+
+<body>
+
+<h2>Student Profile</h2>
+
+<p><b>Name:</b> Roshani Ahire</p>
+<p><b>Roll Number:</b> 21</p>
+<p><b>Course:</b> Computer Engineering</p>
+
+<h3>Skills</h3>
+
+<ul>
+<li>C Programming</li>
+<li>C++</li>
+<li>Python</li>
+<li>HTML</li>
+</ul>
+
+</body>
+</html>
