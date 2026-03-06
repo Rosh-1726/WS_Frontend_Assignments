@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Position Playground</title>
+
+<style>
+
+body{
+height:2000px;
+font-family:Arial;
+}
+
+/* Box 1 - Static */
+.box1{
+width:150px;
+height:150px;
+background:red;
+color:white;
+padding:10px;
+position:static;
+}
+
+/* Box 2 - Relative */
+.box2{
+width:150px;
+height:150px;
+background:blue;
+color:white;
+padding:10px;
+position:relative;
+top:20px;
+left:50px;
+}
+
+/* Box 3 - Absolute */
+.box3{
+width:150px;
+height:150px;
+background:green;
+color:white;
+padding:10px;
+position:absolute;
+bottom:20px;
+right:20px;
+}
+
+/* Box 4 - Fixed */
+.box4{
+width:150px;
+height:150px;
+background:orange;
+color:white;
+padding:10px;
+position:fixed;
+bottom:10px;
+right:10px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="box1">
+Box 1 <br>
+Position: Static
+</div>
+
+<div class="box2">
+Box 2 <br>
+Position: Relative
+</div>
+
+<div class="box3">
+Box 3 <br>
+Position: Absolute
+</div>
+
+<div class="box4">
+Box 4 <br>
+Position: Fixed
+</div>
+
+</body>
+</html>
