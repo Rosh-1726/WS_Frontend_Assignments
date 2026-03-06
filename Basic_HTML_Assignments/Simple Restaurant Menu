@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Restaurant Menu</title>
+</head>
+
+<body>
+
+<h1>Restaurant Menu</h1>
+
+<h2>Starters</h2>
+<ul>
+<li>Soup</li>
+<li>Spring Roll</li>
+</ul>
+
+<h2>Main Course</h2>
+<ul>
+<li>Paneer Butter Masala</li>
+<li>Veg Biryani</li>
+</ul>
+
+<h2>Drinks</h2>
+<ul>
+<li>Juice</li>
+<li>Cold Drink</li>
+</ul>
+
+</body>
+</html>
