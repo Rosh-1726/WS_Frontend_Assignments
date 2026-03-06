@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pricing Table</title>
+
+<style>
+
+.container{
+display:flex;
+gap:20px;
+}
+
+.card{
+border:1px solid gray;
+padding:20px;
+width:150px;
+text-align:center;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<h2>Pricing Plans</h2>
+
+<div class="container">
+
+<div class="card">
+<h3>Basic</h3>
+<p>₹199</p>
+<p>Basic Features</p>
+<button>Buy</button>
+</div>
+
+<div class="card">
+<h3>Pro</h3>
+<p>₹499</p>
+<p>Advanced Features</p>
+<button>Buy</button>
+</div>
+
+<div class="card">
+<h3>Premium</h3>
+<p>₹999</p>
+<p>All Features</p>
+<button>Buy</button>
+</div>
+
+</div>
+
+</body>
+</html>
