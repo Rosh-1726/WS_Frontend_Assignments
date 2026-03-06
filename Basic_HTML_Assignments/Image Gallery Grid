@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Image Gallery</title>
+
+<style>
+
+.gallery{
+display:grid;
+grid-template-columns:repeat(3,1fr);
+gap:10px;
+}
+
+img{
+width:100%;
+transition:transform 0.3s;
+}
+
+img:hover{
+transform:scale(1.1);
+}
+
+</style>
+
+</head>
+
+<body>
+
+<h2>Image Gallery</h2>
+
+<div class="gallery">
+
+<img src="https://via.placeholder.com/200">
+<img src="https://via.placeholder.com/200">
+<img src="https://via.placeholder.com/200">
+<img src="https://via.placeholder.com/200">
+<img src="https://via.placeholder.com/200">
+<img src="https://via.placeholder.com/200">
+
+</div>
+
+</body>
+</html>
