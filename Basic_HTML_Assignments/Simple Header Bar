@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Header Bar</title>
+
+<style>
+
+.header{
+display:flex;
+justify-content:space-between;
+align-items:center;
+background-color:black;
+color:white;
+padding:10px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="header">
+
+<h2>Logo</h2>
+
+<nav>
+Home | About | Contact
+</nav>
+
+</div>
+
+</body>
+</html>
